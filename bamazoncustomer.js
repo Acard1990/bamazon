@@ -54,7 +54,7 @@ var nextAsk = function() {
       name: "productid",
       type: "list",
       message: "Choose the  Item ID of the product you wish to purchase:",
-      choices: ["1", "2", "3", "4", "5", "6", "7"]
+      choices: ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
     },
     {
       name: "productunits",
